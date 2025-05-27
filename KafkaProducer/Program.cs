@@ -14,6 +14,7 @@ namespace KafkaProducer
             using (var db = new AppDbContext())
             {
                 db.Database.EnsureCreated();
+                
 
                 // 🔸 Insertar usuarios si no existen
                 var users = UserFactory.CreateUsers();
