@@ -36,7 +36,7 @@ Este proyecto demuestra el uso de **Apache Kafka** para manejar eventos de **pro
 
 ## ⚙️ Configuración y Levantamiento de Docker
 ```bash
-cd /Users/alejandromateo/RiderProjects/Lendit
+cd..
 docker compose up -d
 docker ps   # Para verificar
 # (Opcional) Detener y limpiar
@@ -74,5 +74,19 @@ graph TD
 -- optionsBuilder.UseSqlite("Data Source=Lendit.db");
 -- brew install db-browser-for-sqlite
 -- open Lendit/KafkaProducer/Lendit.db
+
+---
+
+## 🖥️ Ver Datos con DB Browser for SQLite
+
+## 1️⃣ Instalar en MacBook Pro M4
+--brew install db-browser-for-sqlite
+-- open /Users/... route to your project
+
+
+---
+
+## 💡 Siéntete libre de forkear este proyecto y adaptarlo a tus necesidades.
+-- 📬 Contacto: [tu_email@ejemplo.com]
 
 
