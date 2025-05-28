@@ -60,7 +60,7 @@ graph TD
     end
 ---
 
-## 📝 Descripción
+📝 Descripción
 - KafkaProducer produce eventos ProductEvent y UserEvent a sus respectivos topics.
 - KafkaConsumer y (futuro) KafkaUserConsumer consumen mensajes de products-topic y users-topic.
 - Los datos se guardan en la base de datos local SQLite en tablas Products y Users.
@@ -82,7 +82,6 @@ graph TD
 ## 1️⃣ Instalar en MacBook Pro M4
 --brew install db-browser-for-sqlite
 -- open /Users/... route to your project
-
 
 ---
 
