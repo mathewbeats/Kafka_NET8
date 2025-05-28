@@ -86,6 +86,6 @@ graph TD
 ---
 
 ## 💡 Siéntete libre de forkear este proyecto y adaptarlo a tus necesidades.
--- 📬 Contacto: [tu_email@ejemplo.com]
+-- 📬 Contacto: [alexmateoweb3@gmail.com]
 
 
